@@ -1,6 +1,32 @@
 <img src ="./jjli-cover.jpg">
 
+```yaml
+name: J Jones
+location: Austin, Texas
+current_title: Level III Support Technician
+company: Nexcess
+technical_background:
+  [
+    "Support Technician"
+    "Support Engineer"
+    "Database Administrator"
+    "Senior Network Engineer"
+    "Network Engineer"
+    "Network Analyst"
+    "Switching Systems Operator"
+  ]
+certifications:
+  [
+    "Six Sigma Green Belt"
+    "Level 2 Intelligence Analyst"
+    "Google Workspace Engineer"
+    "Google IT Support"
+    "DNCS Headend Engineer"
+    "Certified Novell Engineer"
+  ]
 
+
+```
 
 <h2 align="center"> a few things I have supported at Nexcess/Liquid Web:</h2>
 <p align="center">
