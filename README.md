@@ -3,23 +3,20 @@
 ```yaml
 name: J Jones
 location: Austin, Texas
-current_title: Level III Support Technician
+current_title: Support System Administrator I
 company: Nexcess
 technical_background:
   [
-    "Support Technician"
     "Support Engineer"
     "Database Administrator"
     "Senior Network Engineer"
-    "Network Engineer"
-    "Network Analyst"
     "Switching Systems Operator"
   ]
 certifications:
   [
     "Six Sigma Green Belt"
     "Level 2 Intelligence Analyst"
-    "Google Workspace Engineer"
+    "Google Workspace Administrator"
     "Google IT Support"
     "DNCS Headend Engineer"
     "Certified Novell Engineer"
