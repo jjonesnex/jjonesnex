@@ -14,7 +14,7 @@ technical_background:
   ]
 certifications:
   [
-    "Six Sigma Green Belt"
+    "Six Sigma Black Belt"
     "Lean Management Certified Expert"
     "Level 2 Intelligence Analyst"
     "Google Workspace Administrator"
