@@ -14,8 +14,12 @@ technical_background:
   ]
 certifications:
   [
-    "Six Sigma Black Belt"
-    "Lean Management Certified Expert"
+    "Operational Excellence Expert"
+        "Lean Management Certified Expert"
+        "Certified Six Sigma Black Belt"
+        "Certified Six Sigma Green Belt"
+        "Enterprise Risk Management With ISO 31000 & FMEA Certification"
+        "Process Mapping Certification"
     "Level 2 Intelligence Analyst"
     "Google Workspace Administrator"
     "Google IT Support"
