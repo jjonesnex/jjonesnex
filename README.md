@@ -28,6 +28,7 @@ certifications:
         "cPanel LiteSpeed Certification"
         "WHM Administration (CWA)"
         "cPanel Professional (CPP)"
+
     "Level 2 Intelligence Analyst"
     "Google Workspace Administrator"
     "Google IT Support"
